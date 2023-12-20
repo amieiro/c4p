@@ -9,4 +9,5 @@ This repo has a list with the C4P for some tech conferences, with their deadline
 
 ## Spanish and Spanish/English
   - ~~[Commit Conf](https://commit-conf.com/). [**Closed**. Deadline: November 27th](https://koliseo.com/commit/2024/sessions)~~
+  - [esLibre](https://eslib.re/). [Deadline March 31th](https://eslib.re/2024/propuestas/).
   - ~~[T3chfest](https://t3chfest.es/). [**Closed**. Deadline: December 13th](https://t3chfest.es/2024/call-for-talks)~~
